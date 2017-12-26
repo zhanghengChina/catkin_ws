@@ -1,0 +1,8 @@
+prefix=/home/leon/catkin_ws/install
+
+Name: basic_test
+Description: Description of basic_test
+Version: 0.0.0
+Cflags: -I/home/leon/catkin_ws/install/include
+Libs: -L/home/leon/catkin_ws/install/lib 
+Requires: message_runtime

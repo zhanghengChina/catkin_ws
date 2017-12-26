@@ -1,0 +1,8 @@
+prefix=/home/leon/catkin_ws/install
+
+Name: zhanghengur10
+Description: Description of zhanghengur10
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/leon/catkin_ws/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/leon/catkin_ws/install
+
+Name: mobile_manipulator_config
+Description: Description of mobile_manipulator_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/leon/catkin_ws/install/lib 
+Requires: 

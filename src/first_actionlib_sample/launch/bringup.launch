@@ -1,0 +1,9 @@
+
+<launch>
+	<node pkg="first_actionlib_sample"  type="do_dishes_action_client_node"  name="do_dishes_action_client_node">
+		
+	</node>
+	<node pkg="first_actionlib_sample"  type="do_dishes_action_server_node"  name="do_dishes_action_server_node">
+		
+	</node>
+</launch>

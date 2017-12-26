@@ -1,0 +1,8 @@
+prefix=/home/leon/catkin_ws/install
+
+Name: zhrobot
+Description: Description of zhrobot
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/leon/catkin_ws/install/lib 
+Requires: 
